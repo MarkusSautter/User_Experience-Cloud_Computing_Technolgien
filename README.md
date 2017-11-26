@@ -1,1 +1,11 @@
-# User_Experience-Cloud_Computing_Technolgien
+# User Experience
+
+Dies ist das GitHub Repsoitory der Gruppe "User Experience".
+
+Gruppenmitglieder:
+
+Andrea Keszeg
+Ismail Kayapinar
+Markus Sautter
+Patrick Schoppel
+Rasin Campinar
