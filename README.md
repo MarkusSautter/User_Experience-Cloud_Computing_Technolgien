@@ -13,4 +13,4 @@ Patrick Schoppel
 
 HINWEIS:
 
-Die JSON-Files müssen in den gleichen Ordner wie Eclipse werden. Der Dateipfad für diese Testdaten ist dorthin ausgelegt.
+Die JSON-Files müssen in den gleichen Ordner wie Eclipse werden. Der Dateipfad für diese Testdaten ist dorthin ausgelegt. ("Docs1.json", "Docs2,json", ..)
